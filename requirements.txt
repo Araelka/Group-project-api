@@ -1,0 +1,10 @@
+Необходимые библиотеки для работы API
+
+ flask
+ tensorflow
+ tensorflow_hub
+ cv2
+ numpy
+ matplotlib.pyplot
+ io
+ base64
